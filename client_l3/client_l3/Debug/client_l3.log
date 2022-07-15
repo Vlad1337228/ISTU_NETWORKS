@@ -1,0 +1,4 @@
+﻿  client_l3.cpp
+D:\вуз\Сети и телекоммуникации\лаба 2\client_l3\client_l3\client_l3.cpp(8,1): warning C4005: INADDR_BROADCAST: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ws2def.h(602): message : см. предыдущее определение "INADDR_BROADCAST"
+  client_l3.vcxproj -> D:\вуз\Сети и телекоммуникации\лаба 2\client_l3\Debug\client_l3.exe
